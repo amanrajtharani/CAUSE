@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 300" width="460" height="300" fill="none">
+  <!-- Outer Golden Crescent -->
+  <path
+    d="M 168 38 
+       C 240 12, 350 22, 412 78 
+       C 458 120, 458 180, 412 222 
+       C 350 278, 240 288, 168 262 
+       C 230 252, 330 236, 368 188 
+       C 388 162, 388 138, 368 112 
+       C 330 64, 230 48, 168 38 Z"
+    fill="#FAB016"
+  />
+
+  <!-- Central Golden Sun / Disc -->
+  <circle cx="280" cy="150" r="58" fill="#FAB016" />
+
+  <!-- Horizontal Striped Band -->
+  <rect x="75" y="104" width="310" height="92" fill="#FFFFFF" />
+
+  <!-- Top and Bottom Framing Bars -->
+  <line x1="75" y1="104" x2="385" y2="104" stroke="#94A3B8" stroke-width="4" />
+  <line x1="75" y1="196" x2="385" y2="196" stroke="#94A3B8" stroke-width="4" />
+
+  <!-- Intermediate Thin Parallel Stripes -->
+  <line x1="75" y1="110.5" x2="385" y2="110.5" stroke="#CBD5E1" stroke-width="2.5" />
+  <line x1="75" y1="117" x2="385" y2="117" stroke="#CBD5E1" stroke-width="2.5" />
+  <line x1="75" y1="123.5" x2="385" y2="123.5" stroke="#CBD5E1" stroke-width="2.5" />
+  <line x1="75" y1="130" x2="385" y2="130" stroke="#CBD5E1" stroke-width="2.5" />
+  <line x1="75" y1="136.5" x2="385" y2="136.5" stroke="#CBD5E1" stroke-width="2.5" />
+  <line x1="75" y1="143" x2="385" y2="143" stroke="#CBD5E1" stroke-width="2.5" />
+  <line x1="75" y1="149.5" x2="385" y2="149.5" stroke="#CBD5E1" stroke-width="2.5" />
+  <line x1="75" y1="156" x2="385" y2="156" stroke="#CBD5E1" stroke-width="2.5" />
+  <line x1="75" y1="162.5" x2="385" y2="162.5" stroke="#CBD5E1" stroke-width="2.5" />
+  <line x1="75" y1="169" x2="385" y2="169" stroke="#CBD5E1" stroke-width="2.5" />
+  <line x1="75" y1="175.5" x2="385" y2="175.5" stroke="#CBD5E1" stroke-width="2.5" />
+  <line x1="75" y1="182" x2="385" y2="182" stroke="#CBD5E1" stroke-width="2.5" />
+  <line x1="75" y1="188.5" x2="385" y2="188.5" stroke="#CBD5E1" stroke-width="2.5" />
+
+  <!-- Giant Solid Black C -->
+  <path
+    d="M 188 38 
+       L 131 38 
+       A 112 112 0 0 0 131 262 
+       L 188 262 
+       L 188 204 
+       L 131 204 
+       A 54 54 0 0 1 131 96 
+       L 188 96 
+       Z"
+    fill="#000000"
+  />
+
+  <!-- Bold Typography A U S E -->
+  <g fill="#000000" font-family="Impact, 'Arial Black', 'Montserrat', -apple-system, sans-serif" font-weight="900">
+    <text x="131" y="190" font-size="98" text-anchor="middle">A</text>
+    <text x="211" y="190" font-size="98" text-anchor="middle">U</text>
+    <text x="285" y="190" font-size="98" text-anchor="middle">S</text>
+    <text x="357" y="190" font-size="98" text-anchor="middle">E</text>
+  </g>
+</svg>
